@@ -1,0 +1,15 @@
+<resources>
+
+    <string name="favcolor_main">FavColor</string>
+    <string name="gk_main">FC + GitKit</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="your_color">We know your favorite color!  Tap to change it.</string>
+    <string name="unknown_color">We don’t know your favorite color, so we’ve picked one at random. Tap to change it.</string>
+    <string name="hello">Hello</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">FavColor</string>
+    <string name="fetching">Looking up your favorite color</string>
+    <string name="switcher">Sign out</string>
+    <string name="gkhello">You&#x2019;re not signed in, so we don&#x2019;t know your favorite color.</string>
+    <string name="fbAppId">179633098777534</string>
+</resources>
